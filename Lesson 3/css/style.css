@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('../images/merc.png');
+}
+
+
+.mercedess {
+    color: white;   
+    display: inline-block;
+    width: 850px;
+    padding: 200px 0 0 50px;
+}
+
+.mercedessImage {
+    width: 300px;
+    display: inline-block;
+}
+
+.link {
+    color: white;
+    border-radius: 10px;
+    padding: 15px 30px;
+    display: inline-block;
+    font-size: 20px;
+    background-color: orangered;
+    margin-top: 30px;
+    text-decoration: none;
+}
+
+
+.title {
+    font-size: 50px;
+}
+
+.description {
+    margin-top: 30px;
+    width: 500px;
+    font-size: 20px;
+}
+
+

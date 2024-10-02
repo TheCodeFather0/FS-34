@@ -1,0 +1,60 @@
+h1 {
+    color:burlywood;
+    text-align: center;
+    background-color: chocolate;
+}
+
+h2 {
+    text-align: right;
+    color:black;
+    width: 500px;
+    height: 300px;
+    /* background-color: green; */
+
+    background-image: url("https://www.freeiconspng.com/uploads/minion-png-6.png");
+    background-repeat: repeat-x;
+    background-size:20%;
+    background-position: center;
+    border: 2px solid;
+}
+
+body {
+    color: white;
+    background-image: url("https://images.alphacoders.com/588/588109.png");
+    background-position: center;
+}
+
+li {
+    list-style-type: decimal;
+}
+
+h4 {
+    /* width: 500px; */
+    /* margin-left: -100px; */
+    /* margin-top: -50px; */
+    margin:50px 100px 50px;  
+    /* margin-top margin-right margin-bottom margin-left */
+
+    /* padding-top: 50px;
+    padding-right: 100px;
+    padding-bottom: 80px;
+    padding-left: 20px; */
+
+    /* border-top: 5px solid red;
+    border-right: 2px dashed yellow;
+    border-bottom: 3px dotted aqua;
+    border-left: 6px double orange; */
+
+    background-color: bisque;
+    border: 15px red;
+    border-style: solid;
+    border-bottom-color: green;
+    border-right-color: yellow;
+    border-left-color: blue;
+
+    padding: 100px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    color: black;
+}
